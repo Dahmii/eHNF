@@ -33,7 +33,7 @@
                                     <li><i class="fas fa-check-circle"></i> 5+ Diets plan</li>
                                     <li><i class="fas fa-check-circle"></i> Newsletters & podcast</li>
                                 </ul>
-                                <!-- <button>Signup</button> -->
+                                <button style="margin-top:150px;"><a href="login">Subscribe</a></button>
                             </div>
                             <div class="plan popular">
                                 <h2>Custom</h2>
@@ -46,7 +46,7 @@
                                     <li><i class="fas fa-check-circle"></i> Recipe videos</li>
                                     <li><i class="fas fa-check-circle"></i> 20% discount on renewal</li>
                                 </ul>
-                                <!-- <button>Buy Now</button> -->
+                                <button><a href="login">Subscribe</a></button>
                             </div>
                             <div class="plan">
                                 <h2>Nutrition Coaching</h2>
@@ -60,7 +60,7 @@
                                     <li><i class="fas fa-check-circle"></i> Recipe videos</li>
                                     <li><i class="fas fa-check-circle"></i> 20% discount on renewal</li>
                                 </ul>
-                                <!-- <button>Contact Us</button> -->
+                                <button><a href="login">Subscribe</a></button>
                             </div>
                         </div>
                     </div>
@@ -68,9 +68,9 @@
                 </div>
 
             </div>
-            <div class="plan-btn" style="margin:50px auto; width:200px">
+            <!-- <div class="plan-btn" style="margin:50px auto; width:200px">
                 <a class="btn btn-primary btn-hover-secondary" href="login">Buy Now</a>
-            </div>
+            </div> -->
 
         </div>
 

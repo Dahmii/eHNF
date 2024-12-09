@@ -17,7 +17,7 @@
                     <div class="container">
 
                         <div class="slider-content">
-                            <h6 class="sub-title">Health, Nutrition & Fitness </h6>
+                            <!-- <h6 class="sub-title">Health, Nutrition & Fitness </h6> -->
                             <h1 class="main-title">Enjoy food on your fitness and health journey.</h1>
                             <p>We’ve helped about 1,000 people achieve their fitness goals and manage their health conditions.</p>
                             <a href="login" class="btn btn-primary btn-hover-secondary">Start Here</a>

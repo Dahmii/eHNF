@@ -26,8 +26,8 @@
 
                     <div class="slider-social">
                         <div class="container">
-                            <div class="social-wrapper">
-                                <p>Connect with us:</p>
+                            <div class="social-wrapper" style="color: #fff;">
+                                <p style="color: #fff;">Connect with us:</p>
                                 <ul class="social">
                                     <li><a href="https://web.facebook.com/easyHNF"><i class="icofont-facebook"></i></a></li>
                                     <li><a href="https://www.instagram.com/easyhnf?igsh=MzRlODBiNWFlZA== "><i class="icofont-instagram"></i></a></li>

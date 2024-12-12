@@ -13,10 +13,10 @@
 
                         <ul class="nav-menu">
                             <li><a class="" href="about">About</a></li>
-                            <li><a class="" href="plan">Plans</a></li>
+                            <!-- <li><a class="" href="https://paystack.shop/easyhnf">Store</a></li> -->
                             <!-- <li><a class="" href="blog.php">Blog</a></li> -->
                             <li><a class="" href="faq">Faq</a></li>
-                            <li><a class="" href="podcast">Podcast</a></li>
+                            <!-- <li><a class="" href="podcast">Podcast</a></li> -->
                             <li><a class="" href="https://medium.com/@easyhnf">Blog</a></li>
                         </ul>
 
@@ -25,8 +25,8 @@
                         </ul> -->
 
                         <div class="header-btn">
-                            <a class="btn btn-hover-primary" href="login">Log In</a>
-                            <a class="btn btn-secondary btn-hover-primary" href="sign-up">Sign Up</a>
+                            <!-- <a class="btn btn-hover-primary" href="login">Log In</a> -->
+                            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store</a>
                         </div>
 
                     </div>
@@ -59,11 +59,15 @@
         <div class="mobile-menu-items">
             <ul class="nav-menu">
                 <li><a class="<?php if ($page == 'About') {echo 'active';} ?>" href="about">About</a></li>
-                <li><a class="<?php if ($page == 'Plans') {echo 'active';} ?>" href="plan">Plans</a></li>
+                <li><a class="<?php if ($page == 'Plans') {echo 'active';} ?>" href="https://paystack.shop/easyhnf">Store</a></li>
                 <li><a class="<?php if ($page == 'Faq') {echo 'active';} ?>" href="faq">Faq</a></li>
-                <li><a class="<?php if ($page == 'Podcast') {echo 'active';} ?>" href="podcast">Podcast</a></li>
+                <!-- <li><a class="<?php if ($page == 'Podcast') {echo 'active';} ?>" href="podcast">Podcast</a></li> -->
                 <li><a class="<?php if ($page == 'Blog') {echo 'active';} ?>" href="https://medium.com/@easyhnf">Blog</a></li>
             </ul>
+            
+            <!-- <a class="btn btn-hover-primary" href="login">Log In</a> -->
+            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store</a>
+                        
         </div>
 
     </div>

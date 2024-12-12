@@ -13,14 +13,14 @@
         <div class="swiper-container">
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/slider-1.jpg);">
+                <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/background-1.png); ">
                     <div class="container">
 
                         <div class="slider-content">
-                            <!-- <h6 class="sub-title">Health, Nutrition & Fitness </h6> -->
-                            <h1 class="main-title">Enjoy food on your fitness and health journey.</h1>
-                            <p>We’ve helped about 1,000 people achieve their fitness goals and manage their health conditions.</p>
-                            <a href="login" class="btn btn-primary btn-hover-secondary">Start Here</a>
+                            <h6 class="sub-title" style="color: #fff;">Health, Nutrition & Fitness </h6>
+                            <h1 class="main-title" style="color: #fff;">Enjoy food on your fitness and health journey.</h1>
+                            <p style="color: #fff;">We’ve helped about 1,000 people achieve their fitness goals and manage their health conditions.</p>
+                            <a href="https://paystack.shop/easyhnf" class="btn btn-primary btn-hover-secondary">Browse Plans</a>
                         </div>
                     </div>
 
@@ -56,7 +56,7 @@
                             </div>
                             <div class="feature-content">
                                 <div class="content-wrapper">
-                                    <h4 class="title"><a href="login">Basic Plans</a></h4>
+                                    <h4 class="title"><a href="https://paystack.shop/easyhnf">Basic Plans</a></h4>
                                     <p>Explore options of our redesigned meal plans for weight loss or weight gain and health management .</p>
 
                                 </div>
@@ -73,7 +73,7 @@
                             </div>
                             <div class="feature-content">
                                 <div class="content-wrapper">
-                                    <h4 class="title"><a href="login">Customized Plan</a></h4>
+                                    <h4 class="title"><a href="https://paystack.shop/easyhnf?product=customized-meal-plan-kdmfkn">Customized Plan</a></h4>
                                     <p>Schedule an appointment with our dietitian to design a meal plan specific to your goal and health need.</p>
                                 </div>
 
@@ -89,7 +89,7 @@
                             </div>
                             <div class="feature-content">
                                 <div class="content-wrapper">
-                                    <h4 class="title"><a href="login">Nutrition coaching</a></h4>
+                                    <h4 class="title"><a href="https://paystack.shop/easyhnf?product=nutrition-coaching-plan-ltovgf">Nutrition coaching</a></h4>
                                     <p>In addition to consultation sessions and designing you a tailor-made meal plan, we will coach you 1-on-1 on nutrition and meal prep.</p>
                                 </div>
 
@@ -126,8 +126,7 @@
                                 <!-- <h6 class="sub-title">Make us your health and fitness partner</h6> -->
                                 <h2 class="main-title">Our expert dieticians are here to assist you every step of the way. </h2>
                                 <p>We provide you with 1-on-1 consultation, regular follow-ups, and nutrition & meal prep trainings</p>
-                                <span class="count">100+ Meals</span>
-                                <p>Explore our meal options designed specifically to help you achieve your body and health goal.</p>
+                               
                             </div>
                         </div>
                     </div>
@@ -138,11 +137,11 @@
     </div>
 
 
-    <div class="section section-padding">
+    <!-- <div class="section section-padding">
         <div class="container">
 
             <div class="section-title">
-                <!-- <h6 class="sub-title">100+ courses available</h6> -->
+               
                 <h2 class="main-title">We cater to different nutrition goals</h2>
             </div>
 
@@ -226,7 +225,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 
     <!-- <div class="section section-padding">
             <div class="container">

@@ -9,9 +9,9 @@
                         <div class="col-lg-4">
 
                             <div class="footer-widget">
-                                <h3 class="footer-widget-title">Subscribe to our Newsletter</h3>
+                            <a href="./"><img src="assets/images/easyhnf-logo-light.png" width="200" alt="Logo"></a>
 
-                                <div class="widget-newsletter">
+                                <!-- <div class="widget-newsletter">
                                     <p>Get a free copy of our bi-annual newsletter on health, nutrition and fitness.</p>
 
                                     <div class="newsletter-form">
@@ -20,14 +20,14 @@
                                             <button class="btn btn-primary btn-hover-white">Subscribe Now</button>
                                         </form>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-8">
 
                             <div class="widget-wrapper">
 
-                                <div class="footer-widget">
+                                <!-- <div class="footer-widget">
                                     <h3 class="footer-widget-title">All Plans</h3>
 
                                     <ul class="widget-link">
@@ -45,7 +45,7 @@
                                         <li><a href="login">Custom </a></li>
                                         <li><a href="login">Nutrition coaching</a></li>
                                     </ul>
-                                </div>
+                                </div> -->
 
                                 <div class="footer-widget">
                                     <h3 class="footer-widget-title">Other useful Links</h3>

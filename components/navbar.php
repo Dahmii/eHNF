@@ -26,7 +26,8 @@
 
                         <div class="header-btn">
                             <!-- <a class="btn btn-hover-primary" href="login">Log In</a> -->
-                            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store</a>
+                            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store NGN</a>
+                            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf-usd">Store USD</a>
                         </div>
 
                     </div>
@@ -66,7 +67,8 @@
             </ul>
             
             <!-- <a class="btn btn-hover-primary" href="login">Log In</a> -->
-            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store</a>
+            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf">Store NGN</a>
+            <a class="btn btn-secondary btn-hover-primary" href="https://paystack.shop/easyhnf-usd">Store USD</a>
                         
         </div>
 

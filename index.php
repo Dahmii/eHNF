@@ -2,6 +2,8 @@
 @include("components/header.php");
 ?>
 
+<?php @include("components/modal.php") ?>
+
 <div class="main-wrapper">
 
     <?php @include("./components/navbar.php"); ?>

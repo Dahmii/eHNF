@@ -15,7 +15,7 @@ $randomImage = $images[array_rand($images)];
         <img src="<?php echo $randomImage; ?>" alt="Book Launch" class="modal-img">
 
         <!-- Order Now Button -->
-        <button class="btn btn-secondary btn-hover-primary" style="margin-top: 30px;" onclick="window.location.href='https://shop.easyhnf.com/'">Preorder Now!</button>
+        <button class="btn btn-secondary btn-hover-primary" style="margin-top: 30px;" onclick="window.location.href='https://shop.easyhnf.com/'">Order Now!</button>
     </div>
 </div>
 
